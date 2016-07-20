@@ -1,0 +1,60 @@
+.pasto{
+    background: #9ACD32;   
+    padding: 10px;
+    width: 1280px;
+    height: 650px;
+}
+.contorno{
+	 border: white solid 4px;
+	 width: 1200px;
+   height: 540px; 
+   margin: 3% 3% 3% 3%;
+}
+.porteria1{
+    border: 4px solid white;
+    padding: 20px;
+    position: relative;
+    width: 150px;
+    height:200px;
+    float: left;
+    top: 150px;
+    border-left: 0px;
+}
+.porteria2{
+    border: 4px solid white;
+    padding: 20px;
+    width: 150px;
+    height: 200px;
+    float: right;
+    position: relative;
+    top: 150px;
+    border-right: 0px;
+}
+.circulo{
+    border-radius: 100%;
+    border: 4px solid white;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 150px;
+    left:480px;
+}
+.balon1{
+    padding: 20px;
+    position: relative;
+    bottom:35px;
+    left:140px;
+}
+.balon2{
+   padding: 20px;
+   position: relative;
+   top:175px;
+   right:80px;
+}
+.balon3{
+   padding: 20px;
+   position: relative;
+   top:-330px;
+   left:130px;
+}
